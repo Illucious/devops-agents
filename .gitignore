@@ -1,0 +1,10 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+checkpoints.db
+eval/results.json
+*.egg-info/
+dist/
+build/
+.venv/
